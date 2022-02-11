@@ -2,12 +2,13 @@
 
 **Lab. Report \#2 – Requirements-Based Test Generation**
 
-| Group \#:      |     |
+| Group \#:      | 28  |
 | -------------- | --- |
 | Student Names: |     |
-|                |     |
-|                |     |
-|                |     |
+| Harshit Sharma |     |
+| Heidi Toews    |     |
+| Muhammad Khan  |     |
+| Shamis Ali     |     |
 
 # 1 Introduction
 
